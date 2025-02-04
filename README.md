@@ -14,7 +14,7 @@ Perfect for students, math lovers, and anyone looking to sharpen their mathemati
 
 ##  Features
 -  **Multiple Question Categories**: Supports different types of math problems, including addition, subtraction, multiplication, division, and more.
--  **Difficulty Levels**: Users will jump from easy then medium then hardvlevel.
+-  **Difficulty Levels**: Users will jump from easy then medium then hard level.
 -  **Leaderboard**: Keeps track of high scores and performance.
 -  **User-Friendly Interface**: Clean and intuitive UI for an engaging experience.
 -  **Performance Analysis**: Provides feedback on accuracy, speed, and areas for improvement.
