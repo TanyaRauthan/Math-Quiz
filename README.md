@@ -21,10 +21,10 @@ Perfect for students, math lovers, and anyone looking to sharpen their mathemati
 -  **Mobile-Friendly**: Responsive design for both desktop and mobile users.
 
 ##  Technologies Used
-- **Frontend**: HTML, CSS, JavaScript (React.js)
-- **Backend**: Node.js, Express.js (if applicable)
-- **Database**: MongoDB / Firebase / MySQL (as per your implementation)
-- **Styling**: Tailwind CSS / Bootstrap
+- **Frontend**: HTML, CSS, JavaScript , React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB 
+- **Styling**: Tailwind CSS 
 
 ##  Installation Guide
 Follow these steps to set up the project on your local machine:
